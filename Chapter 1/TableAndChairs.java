@@ -1,4 +1,4 @@
-class TableAndChairs2
+class TableAndChairs
 {
    public static void main(String[] args)
    {
